@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leoppazt
+- 👋 Hi, I’m Leonardo Paz.
 
-- 🌱 I’m currently learning python and front-end/back-end.
+- I’m currently learning python and front-end/back-end.
 - I'm looking for projects.
 
 
