@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leoppazt
 
 - 🌱 I’m currently learning python and front-end/back-end.
-- I'm looking for projects to learn more
+- I'm looking for projects.
 
 
 <!---
